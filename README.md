@@ -43,8 +43,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Muazzam-Mahmood/Muazzam-Mahmood/output/snake.svg" alt="Snake animation" />
-
-###
